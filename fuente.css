@@ -1,0 +1,9 @@
+@font-face{
+font-family:"mi fuente";
+src:url('fuentes/btseps2.TTF');
+}
+
+<h2{
+	font-family:"mi fuente";}
+
+<p{font-family:"mi fuente";}
